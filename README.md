@@ -1,4 +1,4 @@
-# **Abhishek Bajetha**
+**# Abhishek Bajetha**
 
 👋 Hi, I’m **Abhishek Bajetha**, a passionate **Java Full-Stack Developer** dedicated to building scalable and efficient web applications.  
 
