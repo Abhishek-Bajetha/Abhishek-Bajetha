@@ -11,7 +11,7 @@
 
 ## **📫 Connect with Me**  
 - 📩 **Email:** [abhishekbajetha27@gmail.com](mailto:abhishekbajetha27@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/abhishek-bajetha](#)
+- 🔗 **LinkedIn:** [linkedin.com/in/abhishek-bajetha](https://www.linkedin.com/in/abhishek-bajetha)
 - 💻 **GitHub:** [github.com/Abhishek-Bajetha](https://github.com/Abhishek-Bajetha)  
 
 ## **⚡ Fun Fact**  
